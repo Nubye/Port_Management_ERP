@@ -1,0 +1,67 @@
+# Eclipse IDE
+.metadata
+.classpath
+.project
+.settings/
+bin/
+build/
+tmp/
+temp/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Eclipse workspace
+*.pydevproject
+*.factorypath
+
+# IDE-specific files
+.idea/
+*.iml
+*.iws
+*.open
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+target/
+dist/
+build/
+
+# Web content generated files
+webapp/WEB-INF/classes/
+webapp/WEB-INF/lib/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment/configuration files with sensitive data
+application.properties
+application.yml
+*.env
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Tomcat server files
+tomcat/
+.workers/
+
+# Jar files
+*.jar
+*.war
+*.ear
+
+# Java generated files
+*.java~
+*.class~
